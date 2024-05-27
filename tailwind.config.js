@@ -12,6 +12,7 @@ export default {
     extend: {
       fontFamily: {
         'public': ["Public Sans", 'sans-serif'],
+        'spartan': ["League Spartan", 'sans-serif'],
       }      
     },
   },

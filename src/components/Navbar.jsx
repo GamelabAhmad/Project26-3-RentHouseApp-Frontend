@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Navbar() {
   return (
-    <nav className="bg-purple-500 sticky top-0 z-50">
+    <nav className="bg-purple-500 sticky-top">
       <div className="container mx-auto px-4 py-2">
         <div className="flex items-center justify-between">
           <a href="#" className="font-bold text-white text-lg">
