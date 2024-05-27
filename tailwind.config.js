@@ -5,7 +5,15 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    container: {
+      center: true,
+      padding: '16px'
+    },
+    extend: {
+      fontFamily: {
+        'public': ["Public Sans", 'sans-serif'],
+      }      
+    },
   },
   plugins: [],
 }
