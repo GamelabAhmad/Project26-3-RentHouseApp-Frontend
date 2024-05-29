@@ -13,6 +13,11 @@ export default {
       fontFamily: {
         'public': ["Public Sans", 'sans-serif'],
         'spartan': ["League Spartan", 'sans-serif'],
+      },
+      colors:{
+        'forest': '#0E1525',
+        'secondary': '#e6e3e1',
+        'soft-yellow': '#FAEB98',
       }      
     },
   },

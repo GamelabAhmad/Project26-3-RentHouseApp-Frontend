@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+  @apply bg-secondary;
+}
+
 .landing-page::before {
   content: "";
   background-image: url("./public/img/house-landingpage-final.png");
@@ -24,4 +28,10 @@
 
 .text-shadow {
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.cari-rumah-button:hover {
+  background-color: #fafafa;
+  color: #0e1525;
+  transform: rotate(3deg);
 }
