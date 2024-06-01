@@ -15,7 +15,7 @@ export default function LandingPage() {
             <br /> Indonesia
           </h1>
           <p className="text-3xl font-bold text-soft-yellow">
-            Solusi Mudah Sewa Rumah Idaman Anda
+            Solusi Mudah Sewa Rumah Idaman Anda terkini
           </p>
         </div>
         <Link
